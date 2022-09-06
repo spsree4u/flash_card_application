@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.flash_card_env/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code local
+.vscode/
+
+# OS specific
+.DS_Store
+__MACOSX__/
+
+# Specific folders
+.git/
+.idea/
+logs/

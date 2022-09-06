@@ -1,0 +1,12 @@
+flask
+Flask-SQLAlchemy
+flask-restful
+flask_cors
+flask-security-too
+email_validator
+bcrypt
+bleach
+redis
+celery[redis]
+pandas
+werkzeug
